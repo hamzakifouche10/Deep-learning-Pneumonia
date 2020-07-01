@@ -7,8 +7,8 @@ Dataset Name            : Chest X-Ray Images (Pneumonia)
 Number of Class         : 2
 Number/Size of Images   : Total      : 5856 (1.15 Gigabyte (GB))
                           Training   : 5216 (1.07 Gigabyte (GB))
-                          Validation : 320  (42.8 Megabyte (MB))
-                          Testing    : 320  (35.4 Megabyte (MB))
+                          Validation : 624  (42.8 Megabyte (MB))
+                         
 
 Model Parameters
 Machine Learning Library: Keras
