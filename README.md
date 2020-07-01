@@ -12,19 +12,13 @@ Number/Size of Images   : Total      : 5856 (1.15 Gigabyte (GB))
 
 Model Parameters
 Machine Learning Library: Keras
-Base Model              : InceptionV3 && Custom Deep Convolutional Neural Network
+Base Model              : MobileNet && Custom Deep Convolutional Neural Network
 Optimizers              : Adam
 Loss Function           : categorical_crossentropy
 
 For Custom Deep Convolutional Neural Network : 
 Training Parameters
-Batch Size              : 64
-Number of Epochs        : 30
-Training Time           : 2 Hours
+Batch Size              : 32
+Number of Epochs        : 10
+Training Time           : 1 Hours
 
-Output (Prediction/ Recognition / Classification Metrics)
-Testing
-Accuracy (F-1) Score    : 89.53%
-Loss                    : 0.41
-Precision               : 88.37%
-Recall (Pneumonia)      : 95.48% (For positive class)
